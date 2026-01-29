@@ -1,6 +1,5 @@
-# Привет! 👋 Меня зовут Asta
 
-## 🚀 Java Backend Developer
+## Java Backend Developer
 
 ```java
 public class Developer {
@@ -17,9 +16,6 @@ public class Developer {
     }
 }
 ```
-
-## 💻 Технологический стек
-
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -44,67 +40,9 @@ public class Developer {
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-## 🛠️ Что я делаю
-
-- 🔨 Разрабатываю REST API на Spring Boot
-- 🗄️ Проектирую и оптимизирую базы данных
-- ⚡ Пишу эффективный и масштабируемый код
-- 🐳 Контейнеризирую приложения
-- 🔄 Настраиваю CI/CD процессы
-- 📝 Следую best practices и clean code принципам
-- 🧪 Пишу unit и integration тесты
-
-## 📈 Основные навыки
-
-### Backend Development
-- Разработка микросервисов и монолитных приложений
-- Работа с Spring Framework (Boot, Data, Security, Cloud)
-- Оптимизация производительности приложений
-- Реализация RESTful и GraphQL API
-- Аутентификация и авторизация (JWT, OAuth2)
-
-### Database
-- Проектирование реляционных БД
-- Оптимизация SQL запросов и индексов
-- Работа с миграциями (Flyway, Liquibase)
-- Транзакции и управление конкурентностью
-- Работа с NoSQL базами данных
-
-### DevOps & Tools
-- Docker и контейнеризация приложений
-- CI/CD настройка (GitHub Actions, GitLab CI)
-- Мониторинг и логирование (Prometheus, ELK)
-- Системы сборки (Gradle, Maven)
-
-### Software Engineering
-- Паттерны проектирования (GoF, Enterprise)
-- SOLID принципы
-- Clean Architecture
-- TDD и BDD подходы
-- Code Review и рефакторинг
-
-## 📚 Изучаю и практикую
-
-- ☕ Современные возможности Java (Virtual Threads, Records, Pattern Matching, Sealed Classes)
-- 🏗️ Микросервисная архитектура и распределенные системы
-- 📦 Kubernetes и оркестрация контейнеров
-- 🔍 Поисковые системы и аналитика
-- ⚡ Асинхронное программирование и реактивные фреймворки
-- 🧪 Продвинутое тестирование и качество кода
-
-## 💡 О себе
-
-- ⚡ Увлечена разработкой и постоянным обучением
-- 🎯 Фокус на качестве кода и производительности
-- 📖 Изучаю новые технологии и best practices
-- 🤝 Открыта к сотрудничеству и обмену опытом
-- 🚀 Стремлюсь создавать масштабируемые решения
-
 ## 📫 Как со мной связаться
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@anasstasia_dan)
-
-## 🎯 Цитата
 
 > "The best code is no code at all. But if you must write code, make it clean, readable, and maintainable."
 
